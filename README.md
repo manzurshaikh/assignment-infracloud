@@ -17,3 +17,9 @@ manjur@MacBook-Pro shipmunk % docker logs csvserver
 [root@8a9df676f7b3 csvserver]# curl http://localhost:9300/raw
 Y3N2c2VydmVyIGdlbmVyYXRlZCBhdDogMTYyMDQ3MTEyMw==
 CSVSERVER_BORDER: nil
+
+
+
+manjur@MacBook-Pro solution % curl http://localhost:9090                                                                             
+<a href="/graph">Found</a>.
+
